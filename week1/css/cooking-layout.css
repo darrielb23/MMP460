@@ -1,0 +1,19 @@
+.row{
+    display:flex;
+    flex-direction: column;
+    
+}
+
+.card{
+    margin:2em;
+height: 750px;
+}
+
+
+@media (min-width:768px){
+    
+    .row{
+    flex-direction: row;
+    }
+    
+}
