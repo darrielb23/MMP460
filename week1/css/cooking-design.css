@@ -3,7 +3,7 @@
 /* *********** General Styles ********** */
 *{
     margin:5px;
-    padding:0;
+    padding:70;
 }
 
 body{
@@ -126,7 +126,7 @@ ul{
 /* *********** Navbar Styles ********** */
 
 nav{
-    background-color: darkcyan;
+    background-color: grey;
     padding:0.15em;
 }
 
